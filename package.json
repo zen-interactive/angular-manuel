@@ -1,0 +1,26 @@
+{
+  "name": "ng5-angular-manually",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^5.2.3",
+    "@angular/compiler": "^5.2.3",
+    "@angular/core": "^5.2.3",
+    "@angular/platform-browser": "^5.2.3",
+    "@angular/platform-browser-dynamic": "^5.2.3",
+    "reflect-metadata": "^0.1.12",
+    "rxjs": "^5.5.6",
+    "systemjs": "^0.20.19",
+    "zone.js": "^0.8.20"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.46"
+  }
+}
